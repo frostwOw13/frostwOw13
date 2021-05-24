@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-frostwOw13@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:frostwOw13@yandex.ru)](mailto:frostwOw13@yandex.ru) 
 [![Linkedin Badge](https://img.shields.io/badge/-yusupovR-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusupovr/)](https://www.linkedin.com/in/yusupovr) 
 [![Github Badge](https://img.shields.io/badge/-frostwOw13-grey?style=flat&logo=github&logoColor=white&link=https://github.com/frostwOw13/)](https://www.github.com/frostwOw13/)
+[![Codewars Badge](https://img.shields.io/static/v1?message=frostwOw13&logo=codewars&labelColor=B1361E&color=B1361E&logoColor=white&label=%20)](https://www.codewars.com/users/frostwOw13)
 ![Profile views](https://gpvc.arturio.dev/frostwOw13)
 <p align='left'>:mortar_board: I’m currently student at Rolling Scopes School. 
 <p align='left'>:computer: I’m currently learning Javascript.
