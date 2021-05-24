@@ -7,5 +7,5 @@
 <p align='left'>:computer: I’m currently learning Javascript.
 </p><p align='left'> My Projects: <a href='https://frostwow13.github.io/Online-zoo ' target=_blank><u>online-zoo</u>, </a><a href='https://frostwow13.github.io/Photo-filter/ ' target=_blank><u>photo-filter</u>, </a><a href='https://frostwow13.github.io/Virtual-piano/ ' target=_blank><u>virtual-piano</u>, </a><a href='https://frostwow13.github.io/Wildlife/' target=_blank><u>wildlife</u></a></p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=frostwOw13&theme=cobalt&show_icons=true&include_all_commits=true?theme=cobalt)](https://github.com/frostwOw13/github-readme-stats)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=frostwOw13&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true&custom_title=My&#160;GitHub's&#160;stats&hide=stars,issues)](https://github.com/frostwOw13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostwOw13&layout=compact&exclude_repo=TinderDog-Train,News-Site,Authentication-Security,rsschool-cv,stage0,match-match-game,Wildlife,Virtual-piano,Photo-filter&theme=cobalt)](https://github.com/frostwOw13/github-readme-stats)
