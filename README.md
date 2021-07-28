@@ -18,7 +18,7 @@ I'm a student at The Rolling Scopes School. Currently learning javascript develo
 
 ## :mortar_board: My pet-projects
 * [**English for kids**](https://frostwow13-english-for-kids.netlify.app/)
-* [**Async race**](https://frostwOw13.github.io/async-race/)
+* [**Async race**](https://frostwow13.github.io/Async-race/)
 * [**Match match game**](https://frostwOw13.github.io/Match-match-game/)
 * [**Photo-filter**](https://frostwow13.github.io/Photo-filter/)
 * [**Virtual-piano**](https://frostwow13.github.io/Virtual-piano/)
