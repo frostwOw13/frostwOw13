@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=frostwOw13)
 
-I'm a student at The Rolling Scopes School. Currently learning javascript development and wish to start my career as Web Developer. I love to write beautiful lines of code, try out new technologies and tools.
+I'm a current javascript developer. I love to write beautiful lines of code, try out new technologies and tools.
 
 <br/>
 
