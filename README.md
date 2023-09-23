@@ -9,7 +9,7 @@
 
 ## :computer: Tools & Technologies:
 * **Project Management**: Github, Bitbucket, Jira, Confluence
-* **Frameworks/Libraries**: Spring MVC, Spring Security, Spring Boot, React
+* **Frameworks/Libraries**: MySQL, Hibernate, Spring MVC, Spring Security, Spring Boot, React
 * **Language**: Java, JavaScript, TypeScript
 
 ## :mortar_board: My pet-projects
