@@ -17,4 +17,4 @@
 * [**Match match game**](https://frostwOw13.github.io/Match-match-game/)
 
 ## :bar_chart: Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostwOw13&layout=compact&exclude_repo=TinderDog-Train,News-Site,Authentication-Security,rsschool-cv,stage0,Wildlife,Online-zoo,Virtual-piano,Photo-filter&theme=cobalt&hide=css)](https://github.com/frostwOw13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostwOw13&layout=compact&theme=cobalt&hide=css,scss,html)](https://github.com/frostwOw13/github-readme-stats)
