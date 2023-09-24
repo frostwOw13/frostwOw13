@@ -14,12 +14,7 @@
 
 ## :mortar_board: My pet-projects
 * [**English for kids**](https://frostwow13-english-for-kids.netlify.app/)
-* [**Async race**](https://frostwow13.github.io/Async-race/)
 * [**Match match game**](https://frostwOw13.github.io/Match-match-game/)
-* [**Photo-filter**](https://frostwow13.github.io/Photo-filter/)
-* [**Virtual-piano**](https://frostwow13.github.io/Virtual-piano/)
-* [**Online-zoo**](https://frostwow13.github.io/Online-zoo/)
-* [**Wildlife**](https://frostwow13.github.io/Wildlife/)
 
 ## :bar_chart: Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostwOw13&layout=compact&exclude_repo=TinderDog-Train,News-Site,Authentication-Security,rsschool-cv,stage0,Wildlife,Online-zoo,Virtual-piano,Photo-filter&theme=cobalt&hide=css)](https://github.com/frostwOw13/github-readme-stats)
