@@ -9,10 +9,11 @@
 
 ## :computer: Tools & Technologies:
 * **Project Management**: Github, Bitbucket, Jira, Confluence
-* **Frameworks/Libraries**: MySQL, Hibernate, Spring MVC, Spring Security, Spring Boot, React
+* **Frameworks/Libraries**: PostgreSQL, Hibernate, Spring MVC, Spring Security, Spring Boot, React
 * **Language**: Java, JavaScript, TypeScript
 
 ## :mortar_board: My pet-projects
+* [**MoneyKeeper**](https://iusupov-moneykeeper.netlify.app/)
 * [**English for kids**](https://frostwow13-english-for-kids.netlify.app/)
 * [**Match match game**](https://frostwOw13.github.io/Match-match-game/)
 
